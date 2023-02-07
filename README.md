@@ -2,7 +2,7 @@
 Accenture Virtual Experience  dealt with Software Architecture ,Programming, Testing ,Security and AI.
 
 <h1>Unit Testing</h1>
-- Involves editing the code to ensure that the functions work as it should. Unit-testing also involves the testing of specific modules or pieces of code within your app.
+Involves editing the code to ensure that the functions work as it should. Unit-testing also involves the testing of specific modules or pieces of code within your app.
 
 **Three A's of Unit Testing**
 
